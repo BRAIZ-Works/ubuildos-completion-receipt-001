@@ -1,0 +1,59 @@
+{
+  "schema": "UBUILDOS_PUBLIC_PROOF_RELEASE_MANIFEST_V1",
+  "release": "Completion Receipt #001",
+  "release_version": "1.0.7",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "COMPLETION_RECEIPT_001_CAROUSEL.pdf",
+      "size": 82144,
+      "sha256": "02ffa29c999d511b449ecd94b66583696623fd4b4051ff597a648384a3cf265f"
+    },
+    {
+      "path": "README.md",
+      "size": 1958,
+      "sha256": "a0fea7ca848ba21bee19010f11b4480d5a84211ea10645fbc8e8409a82ffe064"
+    },
+    {
+      "path": "RIGHTS_NOTICE.md",
+      "size": 544,
+      "sha256": "2c9510de7a6a8fe391d9080f5769b00d27ffa3b93f443e22fa4752b923b61806"
+    },
+    {
+      "path": "UBUILDOS_COMPLETION_RECEIPT_001_FLAGSHIP_CASE_STUDY.pdf",
+      "size": 327803,
+      "sha256": "e60262fa6757a826d4ba9f769ba6b8e3209079e25d40b650ac39f1af5d444288"
+    },
+    {
+      "path": "independent_review_record.md",
+      "size": 1332,
+      "sha256": "eea23687b8c18edaf4533654d5fcaee7f477daee3aa4a4f9fd066de229551dfa"
+    },
+    {
+      "path": "lessons_learned.md",
+      "size": 1086,
+      "sha256": "e91a7ac4b79621ce4873550856d03eacb7adfcddd36c47c3b8b63bf00d627b6a"
+    },
+    {
+      "path": "methodology.md",
+      "size": 2653,
+      "sha256": "7650208ac2316fc5a2a739fe49cdc1d054516fd71e33277b7ab0e38dc0349b0f"
+    },
+    {
+      "path": "production_metrics_audit_public.xlsx",
+      "size": 12100,
+      "sha256": "69cc5f07c531c2a61b5b07e3dc39928054133776426df295ee9582d80d1f097e"
+    },
+    {
+      "path": "public_claims.md",
+      "size": 1237,
+      "sha256": "6e99d48c10a126bb61777146c0d44eed9e4e371435e4b51580dffadc733c279d"
+    },
+    {
+      "path": "verification.md",
+      "size": 979,
+      "sha256": "be81570df6d9c13970cf21a8c172d3322d5c9cc377d8008ba45c117e09c42096"
+    }
+  ],
+  "lifecycle_note": "Publication authority and review lifecycle are intentionally external to this immutable public artifact inventory."
+}
